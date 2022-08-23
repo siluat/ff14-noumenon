@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "eslint-config-next",
+    "plugin:jest-dom/recommended",
+    "plugin:testing-library/react",
+    "plugin:jsx-a11y/recommended",
+    "prettier"
+  ]
+}
